@@ -1,0 +1,1196 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"queue",
+				"queueServer\tmodule"
+			],
+			[
+				"obj",
+				"obj_list\tstatement"
+			],
+			[
+				"r",
+				"random"
+			],
+			[
+				"star",
+				"startNodes\tstatement"
+			],
+			[
+				"start",
+				"startNodes"
+			],
+			[
+				"place",
+				"placeType\tstatement"
+			],
+			[
+				"dum",
+				"dumps\tfunction"
+			],
+			[
+				"Htt",
+				"HttpResponse\tclass"
+			],
+			[
+				"tri",
+				"tripNode\tstatement"
+			],
+			[
+				"loca",
+				"locationArray\tstatement"
+			],
+			[
+				"lo",
+				"loginUser\tstatement"
+			],
+			[
+				"login",
+				"loginUser\tstatement"
+			],
+			[
+				"user",
+				"userHasViewingAccess\tfunction"
+			],
+			[
+				"json",
+				"json_data\tstatement"
+			],
+			[
+				"T",
+				"TextField\tclass"
+			],
+			[
+				"Trip",
+				"TripNode\tclass"
+			],
+			[
+				"def",
+				"default\tNOT_PROVIDED"
+			],
+			[
+				"model",
+				"models\tmodule"
+			],
+			[
+				"moe",
+				"models\tmodule"
+			],
+			[
+				"dec",
+				"decimal_places\tparam"
+			],
+			[
+				"decimal",
+				"DecimalField\tclass"
+			],
+			[
+				"d",
+				"decimal\tmodule"
+			],
+			[
+				"ch",
+				"CharField\tclass"
+			],
+			[
+				"else",
+				"else\telse"
+			],
+			[
+				"fpr",
+				"fprintf\tMatlab method"
+			],
+			[
+				"ps",
+				"psnrPoints"
+			],
+			[
+				"fun",
+				"func\tsmall function"
+			],
+			[
+				"mean",
+				"meanSquareError"
+			],
+			[
+				"deco",
+				"deconvolved1"
+			],
+			[
+				"im",
+				"imnoise"
+			],
+			[
+				"ff",
+				"fftn"
+			],
+			[
+				"fft",
+				"fftshift"
+			],
+			[
+				"timestamp",
+				"timestamp_minute"
+			],
+			[
+				"rec",
+				"received"
+			],
+			[
+				"HTTP",
+				"HTTP/1.1"
+			],
+			[
+				"specif",
+				"specify"
+			],
+			[
+				"re",
+				"result\tstatement"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"chi",
+				"childData\tstatement"
+			],
+			[
+				"sub",
+				"subChildData\tstatement"
+			],
+			[
+				"a",
+				"attrib\tstatement"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"view",
+				"viewTrip"
+			],
+			[
+				"vi",
+				"viewTrip\tfunction"
+			],
+			[
+				"va",
+				"value\tAttr"
+			],
+			[
+				"value",
+				"value=〔attribute〕"
+			],
+			[
+				"logi",
+				"login_required\tfunction"
+			],
+			[
+				"H",
+				"HttpResponseRedirect\tclass"
+			],
+			[
+				"HttpResponse",
+				"HttpResponseRedirect\tclass"
+			],
+			[
+				"co",
+				"contrib\tmodule"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"I",
+				"IntegerField\tclass"
+			],
+			[
+				"mode",
+				"models\tmodule"
+			],
+			[
+				"ma",
+				"max_length\tNone"
+			],
+			[
+				"Man",
+				"ManyToManyField\tclass"
+			],
+			[
+				"pass",
+				"password\tstatement"
+			],
+			[
+				"su",
+				"submitUrl\tparam"
+			],
+			[
+				"url",
+				"urlopen\tfunction"
+			],
+			[
+				"get",
+				"getData\tfunction"
+			],
+			[
+				"st",
+				"start_new_thread\tfunction"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"P",
+				"PIPE\tstatement"
+			],
+			[
+				"std",
+				"stdout\tNone"
+			],
+			[
+				"sys",
+				"system\tfunction"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"set",
+				"set_light"
+			],
+			[
+				"msg",
+				"msga\tstatement"
+			],
+			[
+				"de",
+				"decode(\"utf-8"
+			],
+			[
+				"p",
+				"get4PointCode"
+			],
+			[
+				"code",
+				"codeNew"
+			],
+			[
+				"ym",
+				"ymax"
+			],
+			[
+				"DDA",
+				"DDABresenham"
+			],
+			[
+				"arb",
+				"arbx"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"print",
+				"printMatrix"
+			],
+			[
+				"temp",
+				"temp2"
+			],
+			[
+				"fi",
+				"finishCount〔variable〕"
+			],
+			[
+				"packet",
+				"packetInfo〔variable〕"
+			],
+			[
+				"pack",
+				"packetInfo"
+			],
+			[
+				"whi",
+				"while〔keyword〕"
+			],
+			[
+				"file",
+				"filename〔variable〕"
+			],
+			[
+				"iter",
+				"iterkeys〔function〕"
+			],
+			[
+				"match",
+				"matchsize"
+			],
+			[
+				"tags",
+				"tagsize"
+			],
+			[
+				"tag",
+				"tagsize"
+			],
+			[
+				"jso",
+				"json_decode〔function〕"
+			],
+			[
+				"emai",
+				"$emails〔variable〕"
+			],
+			[
+				"cou",
+				"count〔function〕"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"mysq",
+				"mysqli〔class〕"
+			],
+			[
+				"mysqli_fetch",
+				"mysqli_fetch_assoc〔function〕"
+			],
+			[
+				"sess",
+				"session_destroy〔function〕"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"Anwesha",
+				"Anwesha2k16"
+			],
+			[
+				"private",
+				"$privateKey〔variable〕"
+			],
+			[
+				"0-9",
+				"0-9]{4"
+			],
+			[
+				"_",
+				"$_POST〔variable〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"userI",
+				"userIDs"
+			],
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"mysqli_",
+				"mysql_insert_id〔function〕"
+			],
+			[
+				"mo",
+				"$mode〔variable〕"
+			],
+			[
+				"dir",
+				"directoryName"
+			],
+			[
+				"_SE",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"mat",
+				"$matches〔variable〕"
+			],
+			[
+				"new",
+				"$newPassword〔variable〕"
+			],
+			[
+				"htt",
+				"http_response_code〔function〕"
+			],
+			[
+				"has",
+				"$hashContent〔variable〕"
+			],
+			[
+				"hash",
+				"hash_hmac〔function〕"
+			],
+			[
+				"mysqli_num",
+				"mysqli_num_rows〔function〕"
+			],
+			[
+				"Login",
+				"LoginTable"
+			],
+			[
+				"getUer",
+				"getUserPrivateKey〔function〕"
+			],
+			[
+				"mysqli_feth",
+				"mysqli_fetch_assoc〔function〕"
+			],
+			[
+				"res",
+				"$result〔variable〕"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"incl",
+				"include〔keyword〕"
+			],
+			[
+				"validate",
+				"validateUsername"
+			],
+			[
+				"preg",
+				"preg_match〔function〕"
+			],
+			[
+				"JSON_",
+				"JSON_UNESCAPED_SLASHES〔constant〕"
+			],
+			[
+				"strip",
+				"stripslashes〔function〕"
+			],
+			[
+				"inp",
+				"inpLine〔variable〕"
+			],
+			[
+				"varia",
+				"variableline〔variable〕"
+			],
+			[
+				"dep",
+				"depVar〔variable〕"
+			],
+			[
+				"en",
+				"endNode〔variable〕"
+			],
+			[
+				"sta",
+				"startNode〔variable〕"
+			],
+			[
+				"path",
+				"pathIndex〔argument〕"
+			],
+			[
+				"sema",
+				"sema_down"
+			],
+			[
+				"mysqli_real",
+				"mysqli_real_escape_string〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "urls.py",
+			"settings":
+			{
+				"buffer_size": 180,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views.py",
+			"settings":
+			{
+				"buffer_size": 658,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 398.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"warp",
+				"Word Wrap: Toggle"
+			],
+			[
+				"colo",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"color",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"Select Theme"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"code",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown HTML Preview"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"markdo",
+				"Markdown HTML Preview"
+			],
+			[
+				"dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"j",
+				"Set Syntax: Java"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: pa",
+				"Package Control: Disable Package"
+			],
+			[
+				"package control",
+				"Package Control: Disable Package"
+			],
+			[
+				"gi",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 599.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/aadi/smartMirror/mirror",
+		"/home/aadi/smartMirror/mirror/queueServer"
+	],
+	"file_history":
+	[
+		"/tmp/mozilla_aadi0/rahul.rar",
+		"/mnt/Edu/College/Sem 7/CS422 peripheral lab/Rahul_code/fwdpracticequestions/MULT.asm",
+		"/mnt/Edu/College/Sem 7/CS422 peripheral lab/Rahul_code/fwdpracticequestions/avrge.asm",
+		"/mnt/Edu/College/Sem 7/CS422 peripheral lab/Rahul_code/fwdpracticequestions/fib.asm",
+		"/mnt/Edu/College/Sem 7/CS422 peripheral lab/Rahul_code/fwdpracticequestions/divide.asm",
+		"/mnt/Edu/College/Sem 7/CS422 peripheral lab/Rahul_code/fwdpracticequestions/smallest.asm",
+		"/mnt/Edu/College/Sem 7/CS422 peripheral lab/Rahul_code/fwdpracticequestions/greatest.asm",
+		"/mnt/Edu/College/Sem 7/CS422 peripheral lab/Rahul_code/fwdpracticequestions/8086 instructions.htm",
+		"/tmp/mozilla_aadi0/MULT.asm",
+		"/mnt/Edu/College/Sem 7/CS422 peripheral lab/Rahul reports/rahul/lab 6/14585862_1844843385737544_187362405_o.jpg",
+		"/home/aadi/smartMirror/mirror/queueServer/urls.py",
+		"/home/aadi/smartMirror/mirror/queueServer/tests.py",
+		"/home/aadi/smartMirror/mirror/mirror/settings.py",
+		"/home/aadi/smartMirror/server.py",
+		"/home/aadi/.zshrc",
+		"/mnt/Edu/College/BTP/code/deconvolution/solutions/myfun.m",
+		"/mnt/Edu/College/BTP/code/deconvolution/example_speckle.m",
+		"/mnt/Edu/College/BTP/code/deconvolution/example_optim.m",
+		"/home/aadi/Downloads/Assignment-3/EmoticonSentimentLexicon.txt",
+		"/home/aadi/Downloads/Assignment-3/positive-words.txt",
+		"/home/aadi/Downloads/Assignment-3/gf.txt",
+		"/home/aadi/Downloads/Assignment-3/Test-set.txt",
+		"/home/aadi/Downloads/Assignment-3/Evaluation-script.pl",
+		"/home/aadi/Downloads/Assignment-3/out.txt",
+		"/home/aadi/buddyTrip/buddyTrip/dashboard/urls.py",
+		"/home/aadi/buddyTrip/buddyTrip/useraccount/views.py",
+		"/home/aadi/Documents/mtp/sampletest.txt",
+		"/home/aadi/buddyTrip/buddyTrip/dashboard/templates/dashboard/tripDescription.html",
+		"/home/aadi/buddyTrip/buddyTrip/mapinterface/urls.py",
+		"/home/aadi/buddyTrip/buddyTrip/buddyTrip/urls.py",
+		"/home/aadi/buddyTrip/buddyTrip/dashboard/views.py",
+		"/home/aadi/buddyTrip/buddyTrip/dashboard/models.py",
+		"/home/aadi/buddyTrip/buddyTrip/useraccount/models.py",
+		"/home/aadi/buddyTrip/buddyTrip/mapinterface/static/mapinterface/resources/js/mapLoader.js",
+		"/home/aadi/buddyTrip/buddyTrip/dashboard/functions.py",
+		"/home/aadi/buddyTrip/buddyTrip/dashboard/templates/dashboard/userHome.html",
+		"/home/aadi/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/aadi/buddyTrip/buddyTrip/buddyTrip/settings.py",
+		"/home/aadi/buddyTrip/buddyTrip/mapinterface/models.py",
+		"/home/aadi/buddyTrip/buddyTrip/mapinterface/views.py",
+		"/home/aadi/captchaBreaking/out.txt",
+		"/home/aadi/captchaBreaking/img.bmp",
+		"/mnt/Education/College/BTP/code/deconvolution/solutions/deconvolve_inverse_filter.m",
+		"/home/aadi/WindowsC/Users/aditya/Desktop/BTP/deconvolution/solutions/deconvolve_wiener_filter.m",
+		"/home/aadi/WindowsC/Users/aditya/Desktop/BTP/deconvolution/example_speckle.m",
+		"/home/aadi/WindowsC/Users/aditya/Desktop/BTP/deconvolution/example1.m",
+		"/home/aadi/WindowsC/Users/aditya/Desktop/BTP/deconvolution/utils/noise_std.m",
+		"/home/aadi/WindowsC/Users/aditya/Desktop/BTP/deconvolution/example_optim.m",
+		"/home/aadi/WindowsC/Users/aditya/Desktop/BTP/deconvolution/solutions/deconvolve_tikhonov.m",
+		"/home/aadi/WindowsC/Users/aditya/Desktop/BTP/deconvolution/utils/ssim.m",
+		"/home/aadi/WindowsC/Users/aditya/Desktop/BTP/deconvolution/utils/convert_and_write.m",
+		"/home/aadi/WindowsC/Users/aditya/Desktop/BTP/deconvolution/utils/show_results.m",
+		"/home/aadi/EducationDrive/matlab/bin/matlab",
+		"/mnt/C/Users/aditya/Desktop/BTP/deconvolution/example_optim.m",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab3/headers.tex",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab3/squel.tex",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab3/code/EndWith1101.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab3/code/tb_EndWith1101.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab3/code/branchpred.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab3/code/tb_branchpred.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab3/code/ripplecarry.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab3/code/fulladder.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab3/code/sc_tb_3bitaddsub_lab3_3.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab3/code/rcs_tb.tv",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab3/code/yfunction.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab3/code/sc_tb_yfunction.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab3/code/tb_q4.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab3/code/alu1.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab3/code/Register_File.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab3/code/tb_q5.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab2/squel.tex",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab2/headers.tex",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab2/code/mult4bit.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab2/code/tb_mult4bit.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab2/code/alu.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab2/code/tb_alu.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab2/code/q4.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab2/code/tb_q4.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab2/code/q5.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab2/code/tb_q5.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab2/code/fulladder.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab2/code/subtractor.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab1/code/tb_q5.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab1/code/tb_q4.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab1/code/tb_q3.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab1/code/tb_q1.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab2/code/tb_subtractor.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab1/squel.tex",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab1/headers.tex",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab1/code/q6.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab1/code/tb_q6.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab1/code/q5.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab1/code/q4.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab1/code/q3.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab1/code/q1.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab1/code/q2.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab1/code/tb_q2.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab1/src_q1.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/Lab1/tb_q1.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/squel.tex",
+		"/mnt/Education/College/Sem 7/cs422_reports/squel.log",
+		"/mnt/Education/College/Sem 7/CS422_files/and_gate.v",
+		"/mnt/Education/College/Sem 7/cs422_reports/assignment_2/assignment_2.tex",
+		"/mnt/Education/College/Sem8/AI/Astar/src/Board.java",
+		"/opt/lampp/htdocs/tpc/contactus.php",
+		"/opt/lampp/htdocs/tpc/fac.php",
+		"/run/media/aadi/Arindam/House of Cards 2013 S04 Season 4 Complete 720p WEBRip 5.1Ch x264-KiMO/House.of.Cards.S04E03.720p.WEBRip.5.1Ch.X264-KiMO.srt",
+		"/home/aadi/ontologyWiki/ontology.wiki/Home.md",
+		"/home/aadi/ontologyWiki/ontology.wiki/Documentation.md",
+		"/mnt/:D/porn2/Blue/Digital Playground Collection/Crave/Temp1.txt",
+		"/run/media/aadi/Arindam/flexlm/LICENSE.TXT",
+		"/mnt/Education/interview",
+		"/home/aadi/ontology/ontology/onto.xml",
+		"/home/aadi/ontology/ontology/ontology/receiver/templates/receiver/createOntology.html",
+		"/home/aadi/ontology/ontology/ontology/receiver/urls.py",
+		"/home/aadi/ontology/ontology/ontology/receiver/views.py",
+		"/home/aadi/ontology/ontology/ontology/receiver/templates/receiver/sampleOnto.xml",
+		"/home/aadi/ontology/ontology/loadOntology.py",
+		"/home/aadi/buddyTrip/buddyTrip/User/urls.py",
+		"/home/aadi/buddyTrip/buddyTrip/leaflet/templates/User/userHome.html",
+		"/home/aadi/buddyTrip/buddyTrip/leaflet/templates/User/tripDescription.html",
+		"/home/aadi/buddyTrip/buddyTrip/leaflet/templates/User/TripCreationForm.html",
+		"/home/aadi/buddyTrip/buddyTrip/leaflet/templates/User/login.html",
+		"/home/aadi/buddyTrip/buddyTrip/leaflet/templates/User/registerUser.html",
+		"/home/aadi/buddyTrip/buddyTrip/User/models.py",
+		"/home/aadi/buddyTrip/buddyTrip/leaflet/urls.py",
+		"/home/aadi/buddyTrip/buddyTrip/leaflet/views.py",
+		"/home/aadi/buddyTrip/buddyTrip/leaflet/models.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"calculate",
+			"deconvolved_image",
+			"original_image",
+			"Techbench",
+			"matlab",
+			"hmwkClassInstructor",
+			"&",
+			"rc?",
+			"txt",
+			"connectDB2",
+			"uccessfully connected to",
+			".sh",
+			"/etc/init.d/",
+			"cp ./",
+			"/etc/init.d/",
+			"SUTD_staff",
+			"blank",
+			"assignment",
+			"DO",
+			"rahul",
+			";\n",
+			":\n    :",
+			":\n    |",
+			":\n    :",
+			"19",
+			":\n    : ",
+			";\n",
+			"\n\n",
+			":\n    | ",
+			"\n    | ",
+			"    ",
+			"opt",
+			"AAA",
+			"\n",
+			":",
+			"  ",
+			"assign",
+			"%",
+			"rand",
+			"objects.get",
+			"object.get",
+			".get",
+			"}\n",
+			"0.7",
+			"assignment",
+			"week",
+			"    ",
+			"lastseen",
+			"gram.y",
+			"gram.l",
+			"\\includegraphics{",
+			"(around Origin)",
+			" (around X-axis)",
+			"week ",
+			"1301cs03",
+			"aditya",
+			"glClearColor",
+			"joption",
+			"model",
+			"action",
+			"default",
+			"Abhijit Das",
+			"private javax.swing",
+			"jL",
+			"scale=0.5",
+			"scale=0.7",
+			"scale=1.0",
+			"PNG",
+			"private javax",
+			"joption",
+			"home.setVisible",
+			"setVisible",
+			"        ",
+			"Enter file name : ",
+			"30",
+			"Enter file name : ",
+			"134",
+			"20",
+			"d",
+			"Enter file name : ",
+			"3 3 3",
+			"dropped from ",
+			"dropped",
+			"5 64",
+			"5",
+			"3",
+			"5",
+			"Queued to Switch",
+			"5.",
+			"queued to switch",
+			"Generated : < 0 0",
+			"2 0",
+			"!!!!!!!!!",
+			"dropped",
+			"switch",
+			"source",
+			"switch",
+			"key",
+			"carlos",
+			">",
+			"Who made me",
+			"DrawCircle",
+			"0",
+			"captcha",
+			"group_register_ur",
+			"\no ",
+			"style=\"margin-bottom: 0.28cm; line-height: 108%;\"",
+			"\">",
+			"style=\"color: #000000;\"",
+			"style=\"font-size: medium;\"",
+			"style=\"font-family: Times New Roman,serif;\"",
+			"style=\"margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%;",
+			"style=\"text-decoration: none;\"",
+			"style=\"color: #000000;\"",
+			"style=\"font-size: medium;\"",
+			"style=\"font-family: Times New Roman,serif;\"",
+			"style=\"margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%;\"",
+			"style=\"text-decoration: none;\"",
+			"style=\"color: #000000;\"><span style=\"font-family: Times New Roman,serif;\"",
+			"style=\"font-size: medium;\"",
+			"style=\"font-family: Times New Roman,serif;\"",
+			"style=\"color: #000000;\"",
+			"style=\"margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%;\"",
+			"style=\"font-size: large;\"",
+			"style=\"font-family: Times New Roman,serif;\"",
+			"style=\"margin-top: 0.49cm; margin-bottom: 0.49cm; line-height: 100%;\"",
+			"style=\"font-size: medium;\"",
+			"loginTable"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"compute",
+			"deconvolvedImage",
+			"originalImage",
+			"Testbench",
+			".sh disable",
+			"sudo chmod -x /etc/init.d/",
+			"/etc/init.d/",
+			"",
+			"blooo",
+			"blooo\n",
+			";\n\n",
+			"\n    :",
+			":\n    :",
+			":\n    |",
+			"\n    :",
+			"\n    : ",
+			";\n\n",
+			"\n    ;\n",
+			":\n    : ",
+			"\n    : ",
+			"    | ",
+			"",
+			"\n\n",
+			"\n",
+			"\n    ",
+			"\t",
+			"lang.y",
+			"lang.l",
+			"\\includegraphics[scale=0.4]{",
+			"",
+			"public javax.swing",
+			"scale=0.4",
+			"scale=0.5",
+			"scale=0.7",
+			"png",
+			"public javax",
+			" ",
+			"",
+			"8.933",
+			"",
+			"7 64",
+			"7",
+			"5",
+			"6",
+			"5",
+			"\nGenerated : < 0 0",
+			"Generated : < 0 0\n",
+			"",
+			">",
+			"",
+			"LoginTableo",
+			"LoginTable2",
+			"aadi",
+			"dict",
+			"$diff",
+			"@'",
+			"\n[",
+			".search",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 658,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								519,
+								519
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mirror.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"co",
+				"contactus.php"
+			],
+			[
+				"",
+				"contactus2.php"
+			],
+			[
+				"wsgi",
+				"anwesha/wsgi.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/cp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
