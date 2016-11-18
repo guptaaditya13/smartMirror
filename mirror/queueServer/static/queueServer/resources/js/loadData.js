@@ -1,7 +1,7 @@
 function codeAddress() {
 	// while(true){
 		setInterval(getData,2000);
-		setInterval(getData,500);
+		setInterval(updateTime,500);
 	// }
 }
 function getData(){
@@ -18,6 +18,6 @@ function getData(){
 	});
 }
 function updateTime(){
-	document.getElementById('time').innerHTML = new Date().toLocaleString();
+	document.getElementById('time').innerHTML = (new Date()).toLocaleString();
 }
 window.onload = codeAddress;
